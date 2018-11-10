@@ -19,7 +19,7 @@
       <li><a href="1">Mas acerca de mi...</a></li>
       <li><a href="2">Naci</a></li>
       <li><a href="3">Actualmente</a></li>
-      <li><a href="4">Publique un libro de mi autoria...</a></p>
+      <li><a href="4">Publique un libro de mi autoria...</a></li>
       <li><a href="5">Escucho a...</a></li>
       <li><a href="6">Me gusta...</a></li>
       <li><a href="7">Cuentas sociales....</a></li>
@@ -53,9 +53,9 @@
       <p>Viajar constantemente a conocer nuevos lares y tener nuevas experiencias en esta</p>
       <div id="7">
       <h3>Mis Cuentas Sociales</h3>
-      <p><a href="www.linkedin.com/in/gimenaromeroquispe/" >LINKEDID</a></p>
-      <p><a href="www.facebook.com/gimenarq/">FACEBOOK</a></p>
-      <p><a href="dacia.romero@utec.edu.pe">GMAIL</a></p>
+      <p><a href="www.linkedin.com/in/gimenaromeroquispe/" >Linkedin</a></p>
+      <p><a href="www.facebook.com/gimenarq/">Facebook</a></p>
+      <p><a href="dacia.romero@utec.edu.pe">Gmail</a></p>
       <p><p>  
 
 </center>
